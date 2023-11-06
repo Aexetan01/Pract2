@@ -1,0 +1,13 @@
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\bin\Debug\Pract2_Ivan.exe.config
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\bin\Debug\Pract2_Ivan.exe
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\bin\Debug\Pract2_Ivan.pdb
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.Form1.resources
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.Form2.resources
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.Form3.resources
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.Properties.Resources.resources
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.csproj.GenerateResource.cache
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.exe
+C:\Users\goss_rivero\source\repos\Pract2_Ivan\obj\Debug\Pract2_Ivan.pdb
